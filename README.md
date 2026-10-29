@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Financial Crime Investigation Agent
 
 An AI/ML portfolio project for financial transaction risk scoring and investigation using the PaySim synthetic mobile-money dataset.
@@ -119,4 +118,3 @@ Built as a portfolio project to demonstrate practical skills in Python, machine 
 =======
 # ai-financial-crime-investigation-agent
 An AI-powered financial crime investigation agent using machine learning to detect and investigate suspicious transactions.
->>>>>>> a015c84faf64e83855497723950c8bf4c06246b0
