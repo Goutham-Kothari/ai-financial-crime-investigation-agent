@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Dataset files (do not upload the large PaySim dataset)
+data/*.csv
+
+# Generated model files
+models/*.joblib
+models/*.pkl
+
+# Generated reports and investigation outputs
+reports/
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
